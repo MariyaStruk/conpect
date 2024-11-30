@@ -1,7 +1,7 @@
 # Create new branch from main:
-- git checkout main   <!--change brunch -->
-- git pull origin main
-- git checkout -b BRANCH_NAME  <!-- create new branch -->
+1. git checkout main  <!--change brunch -->
+2. git pull origin main
+3. git checkout -b BRANCH_NAME  <!-- create new branch -->
 
 # Push changes to remote branch:
 - git add FILE_NAME // add file to the commit (git add . -- add all changes)
